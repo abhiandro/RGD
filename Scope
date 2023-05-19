@@ -1,7 +1,20 @@
+Module 1 : - 
+  1)	Supplier Module : - 
+      a.	Add/Edit/Delete Supplier
+        i.	Name
+        ii.	Mark
+        iii.	Mobile
+        iv.	Opening balance
+        v.	Percentage
+     b.	Daily basis Transactions 
+        i.	Daily basis entry 
+        ii.	Daily basis payment 
+        iii. Report of date range wise transection
 Module 2: 
   1. Buyer Details: - Name, mobile , Address, Opening balance , Rebate Percentage , Rebate given last year, 
   2. Buyer Daily transaction Including credit and debit 
   3. Report of date range wise transection
 Module 3: 
   1. Daily expense 
-  2. Loan taken and given track 
+  2. Loan taken and given track
+  3. Profite and Loss 
